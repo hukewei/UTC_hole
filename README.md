@@ -14,6 +14,8 @@ class/upload_status.php
 get_access_token.php
 该文件为生成access_token（令牌）的程序，里面包含敏感信息，且返回令牌，所以请放在只有自己能够访问的地方，并且只有在令牌即将过期的时候再使用。
 
+css目录：
+该目录里包含两个来自互联网共享的CSS文件。
 
 其他文件均为人人网提供的SDK文件。
 
